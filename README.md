@@ -30,5 +30,6 @@ MNIST (Modified National Institute of Standards and Technology database) is prob
 ![WhatsApp Image 2024-06-11 at 20 44 52](https://github.com/devanshi162616/Handwritten-Digit-Recognizer-ML-Project/assets/163126016/69bc6d86-26d4-4f61-b86f-dd464db20ac2)
 
 
-## Prediction:![WhatsApp Image 2024-06-11 at 20 44 37](https://github.com/devanshi162616/Handwritten-Digit-Recognizer-ML-Project/assets/163126016/1377f186-d5cf-4503-b4cb-41889280e243)
+## Prediction:
+![WhatsApp Image 2024-06-11 at 20 44 37](https://github.com/devanshi162616/Handwritten-Digit-Recognizer-ML-Project/assets/163126016/1377f186-d5cf-4503-b4cb-41889280e243)
 
